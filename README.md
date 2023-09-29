@@ -4,7 +4,7 @@ Welcome to Movie Match, your personalized movie recommendation system! Powered b
 
 Dataset
 
-For this project, we utilized the (https://raw.githubusercontent.com/YBI-Foundation/Dataset/main/Movies%20Recommendation.csv) from the YBI Foundation Kaggle repository. This dataset contains comprehensive information about movies, user ratings, and other relevant features necessary for building our recommendation system.
+For this project, I utilized the dataset (https://raw.githubusercontent.com/YBI-Foundation/Dataset/main/Movies%20Recommendation.csv) from the YBI Foundation Kaggle repository. This dataset contains comprehensive information about movies, user ratings, and other relevant features necessary for building our recommendation system.
 
 How It Works
 
