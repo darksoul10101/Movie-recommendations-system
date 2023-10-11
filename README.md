@@ -1,4 +1,4 @@
-Movie Recommendation System
+## Movie Recommendation System
 
 Welcome to Movie Match, your personalized movie recommendation system! Powered by the Close Match algorithm, Movie Match offers highly accurate movie suggestions based on your preferences.
 
