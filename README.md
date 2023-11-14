@@ -96,7 +96,7 @@ For this project, the dataset is sourced from the YBI Foundation Kaggle reposito
 - Iterate on the analysis to improve overall model performance.
 
 ## Usage
-To explore the Jupyter notebook for detailed code implementation and analysis, click [here](Micro-Numerosity_Analysis_Customer_Purchase.ipynb).
+To explore the Colab notebook for detailed code implementation and analysis, click [here](https://colab.research.google.com/github/virajbhutada/ybi_foundation-task/blob/main/Micro_Numerosity_Analysis_Customer_Purchase_Prediction.ipynb#scrollTo=xZkOqL3Bu1SL).
 
 ## Feedback
 Your feedback is highly valuable! If you have any questions, suggestions, or issues, please feel free to contact me.
