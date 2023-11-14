@@ -1,7 +1,8 @@
 # Movie Recommendation System
 
-## Project Overview
 ## Author: Viraj N. Bhutada
+
+## Project Overview
 
 Welcome to **Movie Match**, your personalized movie recommendation system! Powered by the Close Match algorithm, Movie Match offers highly accurate movie suggestions based on your preferences.
 
@@ -14,14 +15,16 @@ How It Works
 - Close Match Algorithm: Movie Match uses the Close Match algorithm to identify approximate string matches, accommodating minor input variations such as typos or incomplete titles.
 - Personalized Recommendations: Input your favorite movie, and Movie Match will provide you with a curated list of movie recommendations tailored just for you.
 
-Usage
+## Usage
 
 To get your personalized movie recommendations:
 1. Click on the dataset link above to access our movie database.
 2. Input your favorite movie into Movie Match.
 3. Enjoy a handpicked selection of movies matched to your unique taste!
 
-Feedback
+To explore the Colab notebook for detailed code implementation and analysis, click [here](https://colab.research.google.com/github/virajbhutada/ybi_foundation-task/blob/main/Movie%20Recommendation%20System/Movie_Recommendation_System_Colab%20(1).ipynb)
+
+## Feedback
 
 I value your feedback! If you have any questions, suggestions, or issues, please feel free to contact me.
 
@@ -31,8 +34,9 @@ Enjoy your cinematic journey with Movie Match!
 
 # Customer Purchase Prediction & Micro-Numerosity Analysis
 
-## Project Overview
 ## Author: Viraj N. Bhutada
+
+## Project Overview
 
 Welcome to the Customer Purchase Prediction & Micro-Numerosity Analysis project! In this project, we explore the fascinating realm of predicting customer purchase behavior and delve into the insights offered by Micro-Numerosity Analysis.
 
