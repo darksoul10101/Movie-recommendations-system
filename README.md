@@ -1,5 +1,8 @@
 ## Movie Recommendation System
 
+## Project Overview
+## Author: Viraj N. Bhutada
+
 Welcome to **Movie Match**, your personalized movie recommendation system! Powered by the Close Match algorithm, Movie Match offers highly accurate movie suggestions based on your preferences.
 
 ## Dataset
@@ -29,7 +32,7 @@ Enjoy your cinematic journey with Movie Match!
 # Customer Purchase Prediction & Micro-Numerosity Analysis
 
 ## Project Overview
-# Author: Viraj N. Bhutada
+## Author: Viraj N. Bhutada
 
 Welcome to the Customer Purchase Prediction & Micro-Numerosity Analysis project! In this project, we explore the fascinating realm of predicting customer purchase behavior and delve into the insights offered by Micro-Numerosity Analysis.
 
