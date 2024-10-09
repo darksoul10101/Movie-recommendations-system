@@ -32,7 +32,7 @@ To get your personalized movie recommendations, follow these steps:
 2. **Input Your Favorite Movie**: Enter the title of a movie you love into the Movie Match system.
 3. **Receive Recommendations**: Enjoy a handpicked selection of movies that match your unique taste!
 
-To explore the Colab notebook for detailed code implementation and analysis, click [here](https://colab.research.google.com/github/virajbhutada/ybi_foundation-task/blob/main/Movie%20Recommendation%20System/Movie_Recommendation_System_Colab%20(1).ipynb).
+To explore the Colab notebook for detailed code implementation and analysis, click [here](https://github.com/virajbhutada/Movie-Recommendation-System/blob/main/Movie%20Recommendation%20System/Movie_Recommendation_System_Colab%20(1).ipynb).
 
 ## Key Features
 - **User-Friendly Interface**: Intuitive design for easy navigation and interaction.
